@@ -34,7 +34,7 @@ const Header = () => {
             className="header-profile-image"
             alt="Profile"
           />
-          <span className="header-username">Shuvam</span>
+          <span className="header-username">Suraj</span>
           <i className="fi fi-rr-angle-small-down absolute-center profile-options-icon"></i>
         </div>
       </div>
